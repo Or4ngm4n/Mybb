@@ -1,0 +1,18 @@
+MyBB 1.8.33 Cross Site Scripting Admin CP
+
+- go to themes 
+
+http://localhost/mybb/admin/index.php?module=style-themes
+
+- Edit Default theme
+
+http://localhost/mybb/admin/index.php?module=style-themes&action=edit&tid=2
+
+- Edit Stylesheet Properties for any .css file
+- Change the name to your payload 
+
+
+
+
+
+
